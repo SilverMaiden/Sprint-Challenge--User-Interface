@@ -154,13 +154,11 @@ nav a {
     padding-right:15px;
     text-align: justify;
     line-height: 120%;
-    border-bottom: black dashed 1px;
-    border-pad
 }
 
 .about-container .text-container {
-    padding-top: 15px;
-    padding-bottom:15px;
+    padding-top: 10px;
+    padding-bottom:10px;
 }
 
 .middle-content .boxes .box {
@@ -176,7 +174,6 @@ nav a {
 
 button {
     margin-top: 20px;
-    margin-bottom: 10px;
     border-style: solid;
     border-color: black;
     border-width: 2px;
@@ -242,10 +239,6 @@ button {
 
 .bottom-content .text-container:last-child {
     padding-right: 0;
-}
-
-.bottom-content .margin {
-    margin-top: 30px;
 }
 
 footer {
